@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://i.pinimg.com/736x/a4/79/c3/a479c310a5548d5f033a06d16775ae98.jpg"); 
+    background-size: 1360px;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: rgb(78, 247, 196);
+}
+ol{
+    color: azure;
+}
+.bread{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img1{
+    text-align: center;
+}
+.container2{
+    margin-left: 100px;
+}
+.img2{
+    width: 900px;
+    border-radius: 12px;
+}
